@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Omar-Omaya
-- 👀 I’m interested in .net Core
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me 
 Email: Omar.omaya.elaraby@gmail.com
 
